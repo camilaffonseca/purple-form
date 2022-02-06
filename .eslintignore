@@ -1,0 +1,7 @@
+build
+node_modules
+*.config.js
+.eslintrc.js
+.next
+.husky
+.vscode
