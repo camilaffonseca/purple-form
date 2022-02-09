@@ -10,6 +10,7 @@ const GlobalStyle = createGlobalStyle`
     font-size: 14px;
     color: #f2f2f2;
     background-color: #26272C;
+    accent-color: #5D3EFF;
   }
 
   a {
